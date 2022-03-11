@@ -1,6 +1,6 @@
 
 
-##Build postgres image
+## Build postgres image
 
 ```
 cd postgres-img
@@ -13,7 +13,7 @@ docker build docker --tag postgresql-img:latest
 ./postgresql-img/test_skript/startLokaltPrimary.sh
 ```
 
-##Build pgbackrest-repository image
+##  Build pgbackrest-repository image
 ```
 cd pgbackrest-repository
 docker build docker --tag pgbackrest-repository:latest
