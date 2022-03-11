@@ -1,1 +1,0 @@
-# postgres-pgbackrest-example
